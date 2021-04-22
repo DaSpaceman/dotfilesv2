@@ -1,0 +1,17 @@
+[2021-03-28 17:09:01.690] [debug] Init App
+[2021-03-28 17:09:01.807] [debug] App is ready
+[2021-03-28 17:09:01.816] [info] I18n: The ressources for the language "us" have been loaded.
+[2021-03-28 17:09:01.871] [debug] Creating Window
+[2021-03-28 17:09:01.913] [info] I18n: The language "us" has been saved into the "dz_lang" cookie.
+[2021-03-28 17:09:01.913] [info] Cookie: Persisting the cookie "dz_lang" with value "us" for two weeks.
+[2021-03-28 17:09:01.916] [info] Network: the status is now online.
+[2021-03-28 17:09:01.939] [info] Cookie: The cookie store has been flushed successfully.
+[2021-03-28 17:09:03.946] [info] Cookie: Persisting the cookie "sid" with value "fr185739f76b68005dd4b64b4f07aa69521dbd5b" for two weeks.
+[2021-03-28 17:09:03.976] [info] Cookie: The cookie store has been flushed successfully.
+[2021-03-28 17:09:04.472] [info] Cookie: Persisting the cookie "sid" with value "fr185739f76b68005dd4b64b4f07aa69521dbd5b" for two weeks.
+[2021-03-28 17:09:04.506] [info] Cookie: The cookie store has been flushed successfully.
+[2021-03-28 17:09:04.798] [info] Cookie: Persisting the cookie "sid" with value "fr185739f76b68005dd4b64b4f07aa69521dbd5b" for two weeks.
+[2021-03-28 17:09:04.835] [info] Cookie: The cookie store has been flushed successfully.
+[2021-03-28 17:12:22.945] [debug] App on before quit
+[2021-03-28 17:12:22.945] [info] PowerSave: Trying to stop the power block saver but it is not started
+[2021-03-28 17:12:22.957] [info] Cookie: The cookie store has been flushed successfully.
